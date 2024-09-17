@@ -1,24 +1,28 @@
-# <img src="https://emojicdn.elk.sh/🌕?style=twitter" height=24 /> ᴛᴏᴋʏᴏ ɴɪɢʜᴛ ᴅʀɪᴠᴇ ᴛʜᴇᴍᴇ
+<div align="center">
+<h1><img src="https://emojicdn.elk.sh/🌕?style=twitter" height=24 /> ᴛᴏᴋʏᴏ ɴɪɢʜᴛ ᴅʀɪᴠᴇ ᴛʜᴇᴍᴇ</h1>
+A mix of of the beauty from <a href="https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night">Tokyo Night</a> theme and the candy colors from <a href="https://marketplace.visualstudio.com/items?itemName=KacperBiedka.one-candy-dark">One Candy Dark</a>. <br/>
+Features a slightly darker background and vibrant highlight colors.<br/>
+<img src="https://github.com/user-attachments/assets/3d8f9b08-5a75-4a8a-9da8-0aa9ca705c0e" height=100 /><br/>
+</div>
 
-<img src="">
 
-> A mix of some of the beautiful [Tokyo Night](https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night) theme and borrows some candy colors from [One Candy Dark](https://marketplace.visualstudio.com/items?itemName=KacperBiedka.one-candy-dark). Features a slightly darker background and vibrant candy colors.
 
-## <img src="https://emojicdn.elk.sh/📸?style=twitter" height=18 /> Screenshots
+
+## <img src="https://emojicdn.elk.sh/📸?style=twitter" height=18 />&nbsp; Screenshots
 
 ![CSS syntax highlight](images/screenshots/css-example.png)
 ![JSON syntax highlight](images/screenshots/json-example.png)
 ![JSX syntax highlight](images/screenshots/jsx-example.png)
 ![Hooks syntax highlight](images/screenshots/hooks-example.png)
 
-## <img src="https://emojicdn.elk.sh/⚡️?style=twitter" height=18 /> Installation
+## <img src="https://emojicdn.elk.sh/⚡️?style=twitter" height=18 />&nbsp; Installation
 
 1. Open the `Command Palette` with `Ctrl + Shift + P` / `Command + Shift + P`
 2. Type `Tokyo Night Drive`
 3. Press Enter
 4. Enjoy it!
 
-## <img src="https://emojicdn.elk.sh/🛠️?style=twitter" height=18 /> Settings
+## <img src="https://emojicdn.elk.sh/🛠️?style=twitter" height=18 />&nbsp; Settings
 
 Here are a few settings I use:
 
