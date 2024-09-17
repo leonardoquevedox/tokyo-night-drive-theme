@@ -5,11 +5,11 @@
   "author": {
     "name": "Leonardo Quevedo"
   },
-  "publisher": "@leonardoquevedox",
-  "version": "1.0.0",
+  "publisher": "leonardoquevedox",
+  "version": "1.0.1",
   "scripts": {
-    "package": "vsce package",
-    "publish": "vsce publish"
+    "theme:package": "vsce package",
+    "theme:publish": "vsce publish"
   },
   "devDependencies": {
     "vsce": "^2.15.0"
