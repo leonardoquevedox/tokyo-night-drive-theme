@@ -1,6 +1,6 @@
 <div align="center">
-<img src="https://github.com/user-attachments/assets/e1cbc858-5672-4016-8d26-51ed9b50bb2a" alt="Theme icon" height=320 />
-<h1><img src="https://emojicdn.elk.sh/🌕?style=twitter" height=24 /> ᴛᴏᴋʏᴏ ɴɪɢʜᴛ ᴅʀɪᴠᴇ ᴛʜᴇᴍᴇ</h1>
+<h1><img src="https://github.com/user-attachments/assets/e1cbc858-5672-4016-8d26-51ed9b50bb2a" alt="Theme icon" height=320 /> <br/>
+ᴛᴏᴋʏᴏ ɴɪɢʜᴛ ᴅʀɪᴠᴇ ᴛʜᴇᴍᴇ</h1>
 A mix of of the beauty from <a href="https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night">Tokyo Night</a> theme and the candy colors from <a href="https://marketplace.visualstudio.com/items?itemName=KacperBiedka.one-candy-dark">One Candy Dark</a>. <br/>
 Features a slightly darker background and vibrant highlight colors.<br/>
 <br/>
