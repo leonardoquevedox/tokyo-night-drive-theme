@@ -7,6 +7,13 @@
   },
   "publisher": "@leonardoquevedox",
   "version": "1.0.0",
+  "scripts": {
+    "package": "vsce package",
+    "publish": "vsce publish"
+  },
+  "devDependencies": {
+    "vsce": "^2.15.0"
+  },
   "engines": {
     "vscode": "^1.58.0"
   },
