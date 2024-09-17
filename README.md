@@ -10,21 +10,21 @@ Features a slightly darker background and vibrant highlight colors.<br/>
 
 
 
-## <img src="https://emojicdn.elk.sh/📸?style=twitter" height=18 />&nbsp; Screenshots
+## <img src="https://github.com/user-attachments/assets/573a4455-6dbe-4e17-b06c-2c0f3c334474" height=18 />&nbsp; Screenshots
 
 ![CSS syntax highlight](images/screenshots/css-example.png)
 ![JSON syntax highlight](images/screenshots/json-example.png)
 ![JSX syntax highlight](images/screenshots/jsx-example.png)
 ![Hooks syntax highlight](images/screenshots/hooks-example.png)
 
-## <img src="https://emojicdn.elk.sh/⚡️?style=twitter" height=18 />&nbsp; Installation
+## <img src="https://github.com/user-attachments/assets/33bfbe3f-9872-46bd-8454-433a94e19222" height=18 />&nbsp; Installation
 
 1. Open the `Command Palette` with `Ctrl + Shift + P` / `Command + Shift + P`
 2. Type `Tokyo Night Drive`
 3. Press Enter
 4. Enjoy it!
 
-## <img src="https://emojicdn.elk.sh/🛠️?style=twitter" height=18 />&nbsp; Settings
+## <img src="https://github.com/user-attachments/assets/aab6d9bf-23cf-45ed-a360-7f325a3abac1" height=18 />&nbsp; Settings
 
 Here are a few settings I use:
 
